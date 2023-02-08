@@ -1,6 +1,6 @@
 # Useful-Tools-2023
 
-AI - Automation Tools
+## AI - Automation Tools
 
 
 https://chat.openai.com/chat - You know this and how useful is it
@@ -51,7 +51,7 @@ https://jenni.ai - auto complete your essay and sentence
 
 
 
-Marketing
+## Marketing
 
 
 https://avnaka.github.io - mapping subreddit
@@ -91,7 +91,7 @@ https://withflair.ai - maketeer tool AI for prompt and inspire
 https://repurpose.io/ - make it easy to automate your content workflow - one post, multiple platforms.
 
 
-Payment
+## Payment
 
 
 https://gumroad.com/ - sell anything in this platform
@@ -100,7 +100,7 @@ https://stripe.com - online payment gateway
 
 
 
-Task Management
+## Task Management
 
 
 https://notion.so - Team management, task, docs, etc u can use this as u like
@@ -112,7 +112,7 @@ https://slack.co - cool tool for team that can integrate anything
 https://asana.com - like other team management na
 
 
-Mockup/Design
+## Mockup/Design
 
 
 https://canva.com - easy as fuck website to design anything
@@ -150,7 +150,7 @@ https://glazestock.com
 https://opendoodles.com
 
 
-Develop
+## Develop
 
 
 https://github.com/john-smilga/react-project - REACT EXAMPLE PROJECT
@@ -158,7 +158,7 @@ https://github.com/john-smilga/react-project - REACT EXAMPLE PROJECT
 https://you.com - convert code into other lang (java/py/c++)
 
 
-Learning
+## Learning
 
 
 https://nawvel.com - free learning soft skill course
@@ -170,7 +170,7 @@ https://roadmap.sh - roadmap for developer
 https://classcentral.com - course from university with cert
 
 
-ETC
+## ETC
 
 
 https://betalist.com - beta u business with world
