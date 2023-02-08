@@ -47,6 +47,8 @@ https://lumen5.com/ - create video in 10 min
 
 https://aimage.ai - enhance video online
 
+https://jenni.ai - auto complete your essay and sentence
+
 
 
 Marketing
@@ -82,6 +84,11 @@ https://genei.io - auto summarize blog/article
 
 https://writesonic.com - create ad/caption etc for maketing
 
+https://pixelhunter.io - easy resize picture to any social media
+
+https://withflair.ai - maketeer tool AI for prompt and inspire
+
+https://repurpose.io/ - make it easy to automate your content workflow - one post, multiple platforms.
 
 
 Payment
@@ -118,6 +125,8 @@ https://toools.design - 1000+ resource for design
 
 https://hotspot.ai - create professional graphic
 
+https://pexels.com - unique stock image 
+
 https://isopublic.com
 
 https://gumroad.com
@@ -134,6 +143,11 @@ https://lordicon.com
 
 https://psdfreebies.com
 
+https://drawkit.com
+
+https://glazestock.com
+
+https://opendoodles.com
 
 
 Develop
@@ -153,6 +167,8 @@ https://edx.org - thoudsand free online course
 
 https://roadmap.sh - roadmap for developer
 
+https://classcentral.com - course from university with cert
+
 
 ETC
 
@@ -169,3 +185,8 @@ https://hemingwayapp.com/ - proof reading your essay or article
 
 https://podcast.adobe.com/enhance - AI audio process online free for podcast
 
+https://tinyacquisitions.com/home - BUY/SELL Startup here
+
+https://media.io - add video eff for free
+
+https://boomi.com/ - Intregrate platform
