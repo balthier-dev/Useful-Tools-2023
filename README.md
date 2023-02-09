@@ -169,6 +169,8 @@ https://roadmap.sh - roadmap for developer
 
 https://classcentral.com - course from university with cert
 
+https://github.com/PaulRBerg/create-eth-app - create-eth-app library look like create-react-app
+
 
 ## ETC
 
@@ -190,3 +192,5 @@ https://tinyacquisitions.com/home - BUY/SELL Startup here
 https://media.io - add video eff for free
 
 https://boomi.com/ - Intregrate platform
+
+https://www.wolframalpha.com/ - All in one usable tools like google utilities
