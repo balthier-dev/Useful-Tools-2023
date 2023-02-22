@@ -49,6 +49,7 @@ https://aimage.ai - enhance video online
 
 https://jenni.ai - auto complete your essay and sentence
 
+https://remove.bg - easy remove bg
 
 
 ## Marketing
@@ -159,7 +160,7 @@ https://you.com - convert code into other lang (java/py/c++)
 
 https://flutterflow.io/ - Create Flutter App with Drag-drop
 
-https://airtable.com - Create Sample Application
+https://airtable.com - Create Sample Form Application
 
 ## Learning
 
