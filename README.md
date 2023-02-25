@@ -198,3 +198,5 @@ https://media.io - add video eff for free
 https://boomi.com/ - Intregrate platform
 
 https://www.wolframalpha.com/ - All in one usable tools like google utilities
+
+https://www.startupdeck.io/ - tool for startup
